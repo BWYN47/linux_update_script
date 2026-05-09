@@ -41,9 +41,9 @@ printf '\e[32m^^Auto-Clean^^\e[0m\n'
 printf '\e[35m[-------------------------------Script Complete--------------------------------]\e[0m\n'
 
 ##################################
-# Printf > Echo			             #
+# Printf > Echo			         #
 # Printf = Versatile & Control   #
-# Echo = Bash & Control		       #
+# Echo = Bash & Control		     #
 #        #########################
 #Bwynkoop#
 ##########
