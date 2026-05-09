@@ -6,7 +6,7 @@
 # bin/bash - Runs Only If Located In Specified Path		           #
 # usr/bin/env bash - Any Bash In User Path (Respects Custom Paths) #
 # && Allows Run Text To Only Display Printf If The Command Runs    #
-# sha256sum update.sh > update.sh.sha256			                #
+# sha256sum update.sh > update.sh.sha256			               #
 ####################################################################
 
 # Checking Integrity of File Before Updating
